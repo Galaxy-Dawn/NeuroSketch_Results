@@ -1,7 +1,7 @@
 # NeuroSketch_Results
 The detailed results of NeuroSketch, including the roadmap and experiment part.
 ## 🧠 Directory Structure
-```html
+```
 NeuroSketch_Results/
 ├──Results/
 │ ├──Roadmap/
@@ -20,4 +20,4 @@ NeuroSketch_Results/
 │		├──NeuroSketch.xlsx
 │		└──SPaRCNet.xlsx
 └── README.md
-
+```
