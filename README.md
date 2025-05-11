@@ -2,15 +2,15 @@
 The detailed results of NeuroSketch, including the roadmap and experiment part.
 ## 🧠 Directory Structure
 ```
-NeuroSketch_Results/
-├──Results/
-│ ├──Roadmap/
+NeuroSketch_Results
+├──Results
+│ ├──Roadmap
 │ │	├──Basic Architecture Study.xls
 │ │	├──Macro Study-Leap Approach.xls
 │	│	├──Macro Study-Pagoda Approach.xls
 │	│	├──Micro Study-Group Conv.xls
 │	│	└──Micro Study-Separable Conv.xls
-│ └──Experiment/
+│ └──Experiment
 │		├──CAFormer.xlsx
 │		├──CBraMod.xlsx
 │		├──Conformer.xlsx
