@@ -5,11 +5,11 @@ The detailed results of NeuroSketch, including the roadmap and experiment part.
 NeuroSketch_Results/
 ├──Results/
 │ ├──Roadmap/
-│ │	├──Basic Architecture Study.xls
-│ │	├──Macro Study-Leap Approach.xls
-│	│	├──Macro Study-Pagoda Approach.xls
-│	│	├──Micro Study-Group Conv.xls
-│	│	└──Micro Study-Separable Conv.xls
+│ 	├──Basic Architecture Study.xls
+│ 	├──Macro Study-Leap Approach.xls
+│		├──Macro Study-Pagoda Approach.xls
+│		├──Micro Study-Group Conv.xls
+│		└──Micro Study-Separable Conv.xls
 │ └──Experiment/
 │		├──CAFormer.xlsx
 │		├──CBraMod.xlsx
