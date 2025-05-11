@@ -1,5 +1,5 @@
 # NeuroSketch_Results
-The detailed results of NeuroSketch, including the roadmap and experiment part.
+The detailed results of NeuroSketch, including the roadmap and experiment part. **Since GitHub doesn't support previewing these files online, please download them to check the results.**
 ## 🧠 Directory Structure
 ```
 NeuroSketch_Results/
