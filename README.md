@@ -1,7 +1,5 @@
 # NeuroSketch_Results
 The detailed results of NeuroSketch, including the roadmap and experiment part.
-# NeuroSketch_Results
-The detailed results of NeuroSketch, including the roadmap and experiment part.
 ## 🧠 Directory Structure
 ```css
 NeuroSketch_Results/
