@@ -11,13 +11,17 @@ NeuroSketch_Results/
       Micro Study-Group Conv.xls
       Micro Study-Separable Conv.xls
     Experiment/
+      ConvFormer.xlsx
       CAFormer.xlsx
-      CBraMod.xlsx
-      Conformer.xlsx
-      LaBraM.xlsx
-      MedFormer.xlsx
       ModernTCN.xlsx
-      NeuroSketch.xlsx
+      MedFormer.xlsx
+      EEGNet.xlsx
+      DeepConvNet.xlsx
+      Conformer.xlsx
       SPaRCNet.xlsx
+      seegnificant.xlsx
+      CBraMod.xlsx
+      NeuroSketch-Base.xlsx
+      NeuroSketch-Large.xlsx
   README.md
 ```
