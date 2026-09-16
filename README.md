@@ -1,5 +1,5 @@
 # NeuroSketch_Results
-This repository provides detailed results for developing and evaluating NeuroSketch, a best-practice recipe for supervised neural decoding. The roadmap study covers a basic architecture comparison followed by macro- and micro-level optimization; the main experiments evaluate NeuroSketch-Base and NeuroSketch-Large as the two model instantiations of this recipe. **Since GitHub doesn't support previewing these files online, please download them to check the results.**
+This repository provides detailed results for developing and evaluating NeuroSketch, a best-practice recipe for neural decoding. The roadmap study covers a basic architecture comparison followed by macro- and micro-level optimization; the main experiments evaluate NeuroSketch-Base and NeuroSketch-Large as the two model instantiations of this recipe. **Since GitHub doesn't support previewing these files online, please download them to check the results.**
 ## 🧠 Directory Structure
 ```
 NeuroSketch_Results/
